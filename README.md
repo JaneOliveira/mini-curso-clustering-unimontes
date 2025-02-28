@@ -1,5 +1,6 @@
-# Minicurso apresentado no evento Escola de Verão 2025 - Unimontes:
-# Do caos ao ordenado: Como a clusterização organiza e revela padrões em dados
+# Minicurso apresentado no evento Escola de Verão 2025 - Unimontes
+
+# Título: Do caos ao ordenado: Como a clusterização organiza e revela padrões em dados
 
 
 ## Conteúdo abordado no minicurso:
