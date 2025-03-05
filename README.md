@@ -14,4 +14,4 @@
 * Medidas de Similaridade e Dissimilaridade
 * Algoritmos de Agrupamento
 * Validação de Clusterização
-### 4 Algoritmo K-mean
+### 4 Algoritmo K-means
